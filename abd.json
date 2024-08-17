@@ -1,0 +1,138 @@
+{
+  "name": "Protogen",
+  "description": "A futuristic and sleek theme inspired by Protogen characters.",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "seregonwar",
+      "id": "705853948052897813"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_SECONDARY": [
+      "#72D4F7",
+      "#72D4F7"
+    ],
+    "NORMAL_TEXT": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "TEXT_MUTED": [
+      "#B0BEC5",
+      "#B0BEC5"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#72D4F7",
+      "#72D4F7"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#90CAF9",
+      "#90CAF9"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#2196F3",
+      "#2196F3"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#B0BEC5",
+      "#B0BEC5"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#121212",
+      "#121212"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#1E1E1E",
+      "#1E1E1E"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#212121",
+      "#212121"
+    ],
+    "TERTIARY_BACKGROUND": [
+      "#333333",
+      "#333333"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#4CAF50",
+      "#4CAF50"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#1E1E1E",
+      "#1E1E1E"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#121212",
+      "#121212"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#1E1E1E",
+      "#1E1E1E"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#333333",
+      "#333333"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(114, 212, 247, 0.08)",
+      "rgba(114, 212, 247, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(114, 212, 247, 0.16)",
+      "rgba(114, 212, 247, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "transparent"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#90A4AE",
+      "rgba(144, 164, 174, 0.5)"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#424242",
+      "#424242"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#121212",
+      "#121212"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#3175B7",
+      "#3175B7"
+    ],
+    "TEXT_LINK": [
+      "#1976D2",
+      "#1976D2"
+    ],
+    "KEYBOARD": [
+      "#424242",
+      "#424242"
+    ]
+  },
+  "colors": {
+    "PRIMARY_DARK": "#2196F3",
+    "PRIMARY_DARK_100": "#BBDEFB",
+    "PRIMARY_DARK_200": "#64B5F6",
+    "PRIMARY_DARK_300": "#42A5F5",
+    "PRIMARY_DARK_360": "#1E88E5",
+    "PRIMARY_DARK_400": "#1976D2",
+    "PRIMARY_DARK_500": "#1565C0",
+    "PRIMARY_DARK_600": "#0D47A1",
+    "PRIMARY_DARK_630": "#0A3D91",
+    "PRIMARY_DARK_700": "#1E88E5",
+    "PRIMARY_DARK_800": "#1976D2",
+    "BRAND_NEW": "#4CAF50",
+    "STATUS_RED": "#FF5252",
+    "STATUS_GREEN_600": "#4CAF50",
+    "YELLOW_STATE": "#FFCA28"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#B0BEC5"
+  },
+  "background": {
+    "blur": 0.5,
+    "url": "https://github.com/NahXD/idk2/blob/main/IMG_9529.jpeg?raw=true",
+    "alpha": 1.0
+  }
+} 
